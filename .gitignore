@@ -1,0 +1,54 @@
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Type checker / linter / formatter caches
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Virtualenv / tooling
+.tox/
+.nox/
+pip-wheel-metadata/
+
+# IDE / notebook / misc
+.ipynb_checkpoints/
+*.log
+*.tmp
+
